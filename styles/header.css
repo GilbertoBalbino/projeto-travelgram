@@ -1,6 +1,5 @@
 header {
     padding-block: 32px;
-
     font: var(--text-md);
 }
 
@@ -13,7 +12,6 @@ header .container {
 #profile {
     display: flex;
     gap: 32px;
-
 }
 
 #profile > div {
@@ -30,7 +28,7 @@ header .container {
     list-style: none;
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 16px;
     width: 280px;
 }
 
